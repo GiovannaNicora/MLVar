@@ -2,7 +2,7 @@
 
 This repository contains the code to reproduce results in:
 
-**A Machine Learning approach for ACMG/AMP-based Genomic Variant Classification and Prioritization** by G. Nicora, S. Zucca, I. Limongelli, P. Magni and R. Bellazzi.
+Nicora, G., Zucca, S., Limongelli, I. et al. **A machine learning approach based on ACMG/AMP guidelines for genomic variant classification and prioritization**. Sci Rep 12, 2517 (2022). https://doi.org/10.1038/s41598-022-06547-3
 
 ### AIM
 Classification and prioritization of genomic variants associated with inherited disorders. 
